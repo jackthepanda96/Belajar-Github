@@ -1,1 +1,3 @@
 // new controller
+
+Tambah fungsi validasi untuk coding mas kamil
