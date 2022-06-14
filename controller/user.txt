@@ -7,3 +7,7 @@
 5. Tambah fungsi Oauht untuk login
 6. Fungsi export record login
 7. Fungsi export CSV
+8. Koneksi ke WA
+9. Koneksi ke Telegram
+10. Koneksi ke payment gateway
+11. Simpan data transaksi
