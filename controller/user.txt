@@ -5,10 +5,5 @@
 3. Fungsi Update Profile
 4. Fungsi Lupa Password
 5. Tambah fungsi Oauht untuk login
-<<<<<<< HEAD
 6. Fungsi export record login
 7. Fungsi export CSV
-=======
-6. Koneksi ke WA
-7. Koneksi ke Telegram
->>>>>>> 12a9980679bc349d5b1dd0e7351937723223d266
