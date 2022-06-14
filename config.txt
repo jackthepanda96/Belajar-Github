@@ -3,3 +3,6 @@
 // kamil yang menambahkan nih. jadi bisa kolaborasi
 
 // tambahin lagi
+
+// setup database
+// setup frontend server
