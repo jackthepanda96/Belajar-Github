@@ -5,3 +5,7 @@ Tambah fungsi validasi untuk coding mas kamil
 // fitur pejualan
 
 Tambah fitur OTP
+
+Tambah fitur EMAIL
+Tambah fitur WA
+Tambah fitur Telegram
